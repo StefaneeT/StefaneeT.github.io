@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](https://stefaneet.github.io/Project2/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
