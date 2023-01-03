@@ -10,7 +10,7 @@ This was a project created in Graduate School to display Linear Regression, Rand
 
 ---
 [Vignette](https://stefaneet.github.io/Project1new/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ProjectBarplot.jpg?raw=true"/>
 This project was created in Graduate School to create a vignette to show how to get data from an API. This vignette explores data from a COVID-19 API
 ---
 [Project 3 Title](http://example.com/)
