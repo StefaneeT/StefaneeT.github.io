@@ -9,9 +9,9 @@
 This was a project created in Graduate School to display Linear Regression, Random Forest Ensemble, and Boosted Tree Ensemble methods on a dataset related to social media shares and popularity of articles from Mashable.
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Vignette](https://stefaneet.github.io/Project1new/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+This project was created in Graduate School to create a vignette to show how to get data from an API. This vignette explores data from a COVID-19 API
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
