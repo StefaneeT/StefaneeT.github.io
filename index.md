@@ -4,8 +4,9 @@
 
 ### Category Name 1 
 
-[Project 1 Title](https://stefaneet.github.io/Project2/)
+[NCSU Project](https://stefaneet.github.io/Project2/)
 <img src="images/plotSubject.png?raw=true"/>
+This was a project created in Graduate School to display Linear Regression, Random Forest Ensemble, and Boosted Tree Ensemble methods on a dataset related to social media shares and popularity of articles from Mashable.
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
