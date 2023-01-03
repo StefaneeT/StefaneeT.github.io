@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 [NCSU Project](https://stefaneet.github.io/Project2/)
 <img src="images/plotSubject.png?raw=true"/>
