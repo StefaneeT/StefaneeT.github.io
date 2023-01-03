@@ -14,8 +14,6 @@ This was a project created in Graduate School to display Linear Regression, Rand
 This project was created in Graduate School to create a vignette to show how to get data from an API. This vignette explores data from a COVID-19 API
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
@@ -23,10 +21,6 @@ This project was created in Graduate School to create a vignette to show how to 
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
 ---
 
 
