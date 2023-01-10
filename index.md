@@ -15,14 +15,6 @@ This project was created in Graduate School to create a vignette to show how to 
 
 ---
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
----
-
 
 
 
